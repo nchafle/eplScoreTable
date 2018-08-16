@@ -1,0 +1,13 @@
+.homeButton {
+ position: fixed;
+ bottom: 220px;
+ right: 10px;
+ size: 7x;
+}
+
+.otherButton {
+    position: fixed;
+    bottom: 180px;
+    right: 10px;
+    size: 7px;
+}

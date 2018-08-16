@@ -1,0 +1,65 @@
+.MatchName {
+    color:#24003c;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.TotalMatch {
+    color:#24003c;
+    font-size:1.2rem;
+    font-weight: bold;
+    margin: 20px;
+}
+.Matchday {
+    
+   font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 15px;
+    color:#24003c; 
+    background-color: #ffffff;
+ 
+}
+.Matchday:hover {
+    background-color: whitesmoke;
+    color: #24003c;
+}
+    .container .row  {
+   margin-left: 110px;
+   margin-bottom: 15px;
+   margin-top: 15px;
+   
+}
+.Team {
+    color:#24003c;
+    /* padding: 10px; */
+    font-weight: bold;
+    cursor: pointer;
+    background-color: #ffffff;
+    margin-bottom: 15px;
+    font-size: 1.5rem;
+  
+}
+
+.Team:hover {
+    background-color: #24003c;
+    color: aliceblue;
+}
+
+ .Score {
+    color:white;
+    /* padding: 10px; */
+    font-weight: bold;
+    background-color: #24003c;
+    cursor: pointer;  
+    margin-bottom: 15px;
+    font-size: 1.5rem;
+}
+.Score:hover {
+    background-color: white;
+    color: #24003c;
+}
+
+span {
+    margin: 30px;
+}

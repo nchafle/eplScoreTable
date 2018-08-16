@@ -1,0 +1,15 @@
+.Box {
+    background-color: rgb(36,0,60);
+  color:white;
+  height: 170px;
+  margin: 0px;
+  padding: 15px;
+  }
+
+  .Icon {
+color: aliceblue;
+size: 3px;
+  }
+  .Icon:hover {
+    color: aqua;
+  }

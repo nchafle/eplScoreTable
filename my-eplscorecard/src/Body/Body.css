@@ -1,0 +1,30 @@
+
+  .App-body {
+    font-size: 1.5rem;
+    color: rgb(36,0,60);
+    background: linear-gradient(-20deg,  white 55%, #24003c 10%);
+  }
+  .homeimage {
+    height: auto;
+    width: 85%;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 50px;
+  }
+  
+  .Bodyy {
+    text-align: center;
+  }
+
+  .Link {
+    color: #24003c;
+    margin: 20px;
+
+  } 
+  
+  .Base {
+    background-color: rgb(36,0,60);
+  color:white;
+  padding: 15px;
+  height: 200px;
+  }

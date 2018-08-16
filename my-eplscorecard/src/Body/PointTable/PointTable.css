@@ -1,0 +1,25 @@
+
+
+.PointTable {
+  color:#24003c;
+  font-size:2rem;
+  font-weight: bold;
+  margin: 20px;
+}
+ .Title { 
+   background-color: #24003c;
+   color:#ffff;
+   padding: 10px;
+  }
+
+  .Data {
+    background-color: #ffff;
+   color:#24003c;
+   padding: 10px;
+   font-weight: bold;
+  }
+
+  .Data:hover {
+    background-color: #24003c;
+    color:#ffff;
+  }
